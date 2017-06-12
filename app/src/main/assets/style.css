@@ -1,0 +1,21 @@
+body{
+	background: #FBFCFC;
+}
+
+#konten{
+	width: 100%;
+	height: 100%;
+	
+}
+
+#konten #judul{
+	background: #A468BD;
+	min-height: 30px;
+	height: auto;
+}
+
+#konten #isi{
+	height: auto;
+	min-height: 50px;
+	background: #4AA3DF;
+}
